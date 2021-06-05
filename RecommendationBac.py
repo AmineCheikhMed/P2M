@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pandas as pd
-import SessionState
+
 
 st.title("Recommmandation Orientation Bac")
 st.write("\n")
